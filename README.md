@@ -1,1 +1,3 @@
-# DeepRecognition
+# Reconocimiento Facial
+
+Proyecto de Inteligencia Artificial
